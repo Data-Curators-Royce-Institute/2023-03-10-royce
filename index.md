@@ -330,7 +330,9 @@ change the value of `carpentry` to `incubator`.
 {% endif %}
 
 <hr/>
-
+<h2 id="feedback-form">Feedback form</h2>
+<p>Please fill in the Data Curation and RSE Feedback form as it will help us improve our teaching.</p>
+<p><a href="https://forms.office.com/e/XkLkdfgj4t">Feedback form</a></p>
 
 {% comment %}
 SCHEDULE
